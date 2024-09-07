@@ -1,0 +1,65 @@
+ <title>W3.CSS Nguyễn Xuân bảo-2121050486</title>
+    </head>
+<body>
+<!-- Sidebar -->
+<div class="w3-sidebar w3-light-grey w3-bar-block" style="width:25%">
+  <h3 class="w3-bar-item">Menu</h3>
+  <a href="#" class="w3-bar-item w3-button">Link 1 Nguyễn Xuân bảo-2121050486</a>
+  <a href="#" class="w3-bar-item w3-button">Link 2 Nguyễn Xuân bảo-2121050486</a>
+  <a href="#" class="w3-bar-item w3-button">Link 3 Nguyễn Xuân bảo-2121050486</a>
+</div>
+
+<!-- Page Content -->
+<div style="margin-left:25%">
+
+<div class="w3-container w3-teal">
+  <h1>My Page Nguyễn Xuân bảo-2121050486</h1>
+</div>
+
+<img src="img_car.jpg" alt="Car" style="width:100%">
+
+<div class="w3-container">
+<h2>Sidebar Navigation Example Nguyễn Xuân bảo-2121050486</h2>
+<p>The sidebar with is set with "style="width:25%". Nguyễn Xuân bảo-2121050486</p>
+<p>The left margin of the page content is set to the same value.Nguyễn Xuân bảo-2121050486</p>
+</div>
+
+</div>
+  <div class="w3-container">
+    <h2>Tabs Nguyễn Xuân bảo-2121050486</h2>
+    <p>Tabs are perfect for single page web applications, or for web pages capable of displaying different subjects. Click on the links below. Vũ Quốc Bảo - 2121050447</p>
+  </div>
+
+  <div class="w3-bar w3-black">
+    <button class="w3-bar-item w3-button" onclick="openCity('London')">London Nguyễn Xuân bảo-2121050486</button>
+    <button class="w3-bar-item w3-button" onclick="openCity('Paris')">Paris Nguyễn Xuân bảo-2121050486</button>
+    <button class="w3-bar-item w3-button" onclick="openCity('Tokyo')">Tokyo Nguyễn Xuân bảo-2121050486</button>
+  </div>
+
+  <div id="London" class="w3-container city">
+    <h2>London Nguyễn Xuân bảo-2121050486</h2>
+    <p>London is the capital city of England.Nguyễn Xuân bảo-2121050486</p>
+  </div>
+
+  <div id="Paris" class="w3-container city" style="display:none">
+    <h2>Paris Nguyễn Xuân bảo-2121050486</h2>
+    <p>Paris is the capital of France.Nguyễn Xuân bảo-2121050486</p> 
+  </div>
+
+  <div id="Tokyo" class="w3-container city" style="display:none">
+    <h2>Tokyo Nguyễn Xuân bảo-2121050486</h2>
+    <p>Tokyo is the capital of Japan . Nguyễn Xuân bảo-2121050486</p>
+  </div>
+
+  <script>
+  function openCity(cityName) {
+    var i;
+    var x = document.getElementsByClassName("city");
+    for (i = 0; i < x.length; i++) {
+      x[i].style.display = "none";  
+    }
+    document.getElementById(cityName).style.display = "block";  
+  }
+  </script>
+</body>
+</html>

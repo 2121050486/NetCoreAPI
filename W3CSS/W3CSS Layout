@@ -1,0 +1,25 @@
+<title>W3.CSS Nguyễn Xuân Bảo-2121050486 </title>
+    </head>
+<body>
+  <div class="w3-container">
+    <h2>Mobile First Responsiveness Nguyễn Xuân Bảo-2121050486</h2>
+    <p class="w3-large">Try to resize the window! Nguyễn Xuân Bảo-2121050486</p>
+
+  <div class="w3-container w3-red">
+    <p>Hello W3.CSS Layout.Nguyễn Xuân Bảo-2121050486</p>
+  </div>
+
+  <div class="w3-row w3-border">
+    <div class="w3-container w3-half w3-red">
+      <h2>w3-half Nguyễn Xuân Bảo-2121050486</h2>  
+      <p>The w3-half class uses 50% of the parent container.Nguyễn Xuân Bảo-2121050486</p>
+      <p>On screens smaller than 601 pixels it resizes to 100%.Nguyễn Xuân Bảo-2121050486</p>
+    </div>
+    <div class="w3-container w3-half">
+      <h2>w3-half Nguyễn Xuân Bảo-2121050486</h2>  
+    </div>
+  <div class="w3-container w3-green">
+    <p>Hello W3.CSS Layout. Nguyễn Xuân Bảo-2121050486</p>
+  </div>
+</body>
+</html>

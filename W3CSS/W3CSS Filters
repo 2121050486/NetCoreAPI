@@ -1,0 +1,85 @@
+ <title>W3.CSS Nguyễn Xuân Bảo-212050486</title>
+</head>
+<body>
+  <h2>Displaying CodeNguyễn Xuân Bảo-212050486</h2>
+  <p>The w3-code class is designed to display example code: Nguyễn Xuân Bảo-212050486</p>
+
+  <div class="w3-container">
+    <h2>Filter Table Nguyễn Xuân Bảo-212050486</h2>
+    <p>Search for a name in the input field. Nguyễn Xuân Bảo-212050486</p>
+
+  <div class="w3-panel w3-card w3-light-grey">
+    <h3>Example  Nguyễn Xuân Bảo-212050486</h3>
+    <div class="w3-code notranslate">
+      fruits[0] = "Banana"; Nguyễn Xuân Bảo-212050486<br>
+      fruits[1] = "Apple"; Nguyễn Xuân Bảo-212050486<br>
+      fruits[2] = "Mango"; Nguyễn Xuân Bảo-212050486<br>
+      fruits[3] = "Plum" Nguyễn Xuân Bảo-212050486;<br>
+    </div>
+    <input class="w3-input w3-border w3-padding" type="text" placeholder="Search for names.." id="myInput" onkeyup="myFunction()">
+
+    <table class="w3-table-all w3-margin-top" id="myTable">
+      <tr>
+        <th style="width:60%;">Name  Nguyễn Xuân Bảo-212050486</th>
+        <th style="width:40%;">Country  Nguyễn Xuân Bảo-212050486</th>
+      </tr>
+      <tr>
+        <td>Alfreds Futterkiste  Nguyễn Xuân Bảo-212050486</td>
+        <td>Germany  Nguyễn Xuân Bảo-212050486</td>
+      </tr>
+      <tr>
+        <td>Berglunds snabbkop  Nguyễn Xuân Bảo-212050486</td>
+        <td>Sweden  Nguyễn Xuân Bảo-212050486</td>
+      </tr>
+      <tr>
+        <td>Island Trading  Nguyễn Xuân Bảo-212050486</td>
+        <td>UK  Nguyễn Xuân Bảo-212050486</td>
+      </tr>
+      <tr>
+        <td>Koniglich Essen  Nguyễn Xuân Bảo-212050486</td>
+        <td>Germany  Nguyễn Xuân Bảo-212050486</td>
+      </tr>
+      <tr>
+        <td>Laughing Bacchus Winecellars  Nguyễn Xuân Bảo-212050486</td>
+        <td>Canada Nguyễn Xuân Bảo-212050486</td>
+      </tr>
+      <tr>
+        <td>Magazzini Alimentari Riuniti  Nguyễn Xuân Bảo-212050486</td>
+        <td>Italy  Nguyễn Xuân Bảo-212050486</td>
+      </tr>
+      <tr>
+        <td>North/South  Nguyễn Xuân Bảo-212050486</td>
+        <td>UK  Nguyễn Xuân Bảo-212050486</td>
+      </tr>
+      <tr>
+        <td>Paris specialites  Nguyễn Xuân Bảo-212050486</td>
+        <td>France  Nguyễn Xuân Bảo-212050486</td>
+      </tr>
+    </table>
+
+    <p><strong>Tip:</strong> Remove toUpperCase() if you want to perform a case-sensitive search.</p>
+    <p>Change tr[i].getElementsByTagName('td')[0] to [1] if you want to search for "Country" (index 1) instead of "Name" (index 0).</p>
+  </div>
+
+  <script>
+  function myFunction() {
+    var input, filter, table, tr, td, i;
+    input = document.getElementById("myInput");
+    filter = input.value.toUpperCase();
+    table = document.getElementById("myTable");
+    tr = table.getElementsByTagName("tr");
+    for (i = 0; i < tr.length; i++) {
+      td = tr[i].getElementsByTagName("td")[0];
+      if (td) {
+        txtValue = td.textContent || td.innerText;
+        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+          tr[i].style.display = "";
+        } else {
+          tr[i].style.display = "none";
+        }
+      }
+    }
+  }
+  </script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+</head>
+<body>
+  <div class="w3-container">
+
+    <h2>Badges in Buttons Nguyễn Xuân Bảo-2121050486</h2>
+
+    <p>The w3-badge class can be used inside buttons:Nguyễn Xuân Bảo-2121050486</p>
+
+    <p><button class="w3-btn w3-black">Button Nguyễn Xuân Bảo-2121050486
+    <span class="w3-badge w3-margin-left w3-white">1 Nguyễn Xuân Bảo-2121050486</span>
+    </button></p>
+
+    <p><button class="w3-btn w3-red">Button Nguyễn Xuân Bảo-2121050486
+    <span class="w3-badge w3-margin-left">2 Nguyễn Xuân Bảo-2121050486</span>
+    </button></p>
+
+    </div>
+    <h2>W3.CSS Tags Nguyễn Xuân Bảo-2121050486</h2>
+    <p>You can use a color class to change the color of a tag.Nguyễn Xuân Bảo-2121050486</p>
+    <p><span class="w3-tag w3-blue">New! Nguyễn Xuân Bảo-2121050486</span></p>
+    <p><span class="w3-tag w3-teal">More Later! Nguyễn Xuân Bảo-2121050486</span></p>
+  </div>
+</body>
+</html>

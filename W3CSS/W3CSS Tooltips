@@ -1,0 +1,21 @@
+</head>
+<body>
+  <div class="w3-container">
+    <h2>W3.CSS Modal Nguyễn Xuân Bảo-2121050486</h2>
+    <button onclick="document.getElementById('id01').style.display='block'" class="w3-button w3-black">Open Modal Vũ Quốc Bảo - 2121050447</button>
+    <h2>Tooltips Nguyễn Xuân Bảo-2121050486</h2>
+    <p>Hover over the sentence below! Nguyễn Xuân Bảo-2121050486</p>
+
+    <div id="id01" class="w3-modal">
+      <div class="w3-modal-content">
+        <div class="w3-container">
+          <span onclick="document.getElementById('id01').style.display='none'" class="w3-button w3-display-topright">&times;</span>
+          <p>Some text. Some text. Some text.Nguyễn Xuân Bảo-2121050486</p>
+          <p>Some text. Some text. Some text.Nguyễn Xuân Bảo-2121050486</p>
+        </div>
+      </div>
+    </div>
+    <p class="w3-tooltip">London <span class="w3-text">(<em>9 million inhabitants</em>)</span> is the capital of England.Vũ Quốc Bảo - 2121050447</p>
+  </div>
+</body>
+</html>

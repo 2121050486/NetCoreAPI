@@ -1,0 +1,101 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <title>W3.CSS Nguyễn Xuân Bảo-2121050486</title>
+        <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-flat.css">
+</head>
+<body>
+  <div class="w3-row w3-large">
+    <div class="w3-third w3-container w3-black">
+    <h2>On Black Nguyễn Xuân Bảo-2121050486 </h2>
+    <p class="w3-text-red">w3-text-red Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-pink">w3-text-pink Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-purple">w3-text-purple Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-deep-purple">w3-text-deep-purple Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-indigo">w3-text-indigo Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-blue">w3-text-blue Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-light-blue">w3-text-light-blue Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-cyan">w3-text-cyan Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-aqua">w3-text-aqua Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-teal">w3-text-teal Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-green">w3-text-green Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-light-green">w3-text-light-green Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-lime">w3-text-lime Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-sand">w3-text-sand Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-khaki">w3-text-khaki Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-yellow">w3-text-yellow Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-amber">w3-text-amber Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-orange">w3-text-orange Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-deep-orange">w3-text-deep-orange Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-blue-gray">w3-text-blue-grayNguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-brown">w3-text-brown Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-light-gray">w3-text-light-gray Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-gray">w3-text-gray Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-dark-gray">w3-text-dark-gray Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-black">w3-text-black Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-white">w3-text-white Nguyễn Xuân Bảo-2121050486</p>
+    </div>
+    <div class="w3-third w3-container w3-gray">
+    <h2>On Gray Nguyễn Xuân Bảo-2121050486</h2>
+    <p class="w3-text-red">w3-text-red Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-pink">w3-text-pink Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-purple">w3-text-purple Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-deep-purple">w3-text-deep-purple Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-indigo">w3-text-indigo Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-blue">w3-text-blue Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-light-blue">w3-text-light-blue Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-cyan">w3-text-cyan Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-aqua">w3-text-aqua Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-teal">w3-text-teal Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-green">w3-text-green Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-light-green">w3-text-light-green Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-lime">w3-text-lime Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-sand">w3-text-sand Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-khaki">w3-text-khaki Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-yellow">w3-text-yellow Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-amber">w3-text-amber Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-orange">w3-text-orange Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-deep-orange">w3-text-deep-orange Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-blue-gray">w3-text-blue-gray Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-brown">w3-text-brown Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-light-gray">w3-text-light-gray Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-gray">w3-text-gray Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-dark-gray">w3-text-dark-gray Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-black">w3-text-black Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-white">w3-text-white Nguyễn Xuân Bảo-2121050486</p>
+    </div>
+    <div class="w3-third w3-container">
+    <h2>On White Nguyễn Xuân Bảo-2121050486</h2>
+    <p class="w3-text-red">w3-text-red Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-pink">w3-text-pink Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-purple">w3-text-purple Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-deep-purple">w3-text-deep-purple Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-indigo">w3-text-indigo Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-blue">w3-text-blue Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-light-blue">w3-text-light-blue Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-cyan">w3-text-cyan Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-aqua">w3-text-aqua Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-teal">w3-text-teal Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-green">w3-text-green Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-light-green">w3-text-light-green Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-lime">w3-text-lime Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-sand">w3-text-sand Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-khaki">w3-text-khaki Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-yellow">w3-text-yellow Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-amber">w3-text-amber Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-orange">w3-text-orange Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-deep-orange">w3-text-deep-orange Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-blue-gray">w3-text-blue-gray Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-brown">w3-text-brown Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-light-gray">w3-text-light-gray Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-gray">w3-text-gray Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-dark-gray">w3-text-dark-gray Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-black">w3-text-black Nguyễn Xuân Bảo-2121050486</p>
+    <p class="w3-text-white">w3-text-white Nguyễn Xuân Bảo-2121050486</p>
+    </div>
+
+  <div class="w3-container w3-flat-emerald">
+    <h2>London Nguyễn Xuân Bảo-2121050486</h2>
+    <p>London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants. Vũ Quốc Bảo - 2121050447</p>
+    </div>
+</body>
+</html

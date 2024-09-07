@@ -1,0 +1,24 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <title>W3.CSS Nguyễn Xuân bảo-2121050486 </title>
+        <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-highway.css">
+</head>
+<body>
+  <div class="w3-container">
+    <h1>Using w3-colors-2021Nguyễn Xuân bảo-2121050486</h1>
+    <div class="w3-container w3-2021-marigold">
+      <h1>Marigold Nguyễn Xuân bảo-2121050486</h1>
+    </div>
+    <div class="w3-container w3-2021-cerulean">
+      <h1>Cerulean Nguyễn Xuân bảo-2121050486</h1>
+    </div>
+    <div class="w3-container w3-2021-rust">
+      <h1>Rust Nguyễn Xuân bảo-2121050486</h1>
+    </div>
+    <h1>Using w3-colors-highway Nguyễn Xuân bảo-2121050486</h1>
+    <p><div class="w3-tag w3-highway-schoolbus w3-xlarge w3-card">Schoolbus Nguyễn Xuân bảo-2121050486</div></p>
+    <p><div class="w3-tag w3-highway-green w3-large">Falcon Ridge Parkway Nguyễn Xuân bảo-2121050486</div></p> 
+    <p><div class="w3-tag w3-highway-red w3-xxlarge">STOP Nguyễn Xuân bảo-2121050486</div></p> 
+  </div>
+</body>
+</html>

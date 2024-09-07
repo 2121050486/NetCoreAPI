@@ -1,0 +1,62 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <title>W3.CSS Nguyễn Xuân bảo-2121050486</title>
+        <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-highway.css">
+        <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-indigo.css">
+</head>
+<body>
+  <div class="w3-container">
+    <h1>Using w3-colors-highway Nguyễn Xuân bảo-2121050486</h1>
+    <p><div class="w3-tag w3-highway-schoolbus w3-xlarge w3-card">Schoolbus Nguyễn Xuân bảo-2121050486</div></p>
+    <p><div class="w3-tag w3-highway-green w3-large">Falcon Ridge Parkway Nguyễn Xuân bảo-2121050486</div></p> 
+    <p><div class="w3-tag w3-highway-red w3-xxlarge">STOP Nguyễn Xuân bảo-2121050486</div></p> 
+  </div>
+  <div class="w3-card-4">
+    <div class="w3-container w3-theme w3-card">
+      <h1>Indigo Nguyễn Xuân bảo-2121050486</h1>
+    </div>
+
+    <div class="w3-container w3-text-theme">
+    <h2>w3-text-theme Nguyễn Xuân bảo-2121050486</h2></div>
+
+    <ul class="w3-ul w3-border-top">
+      <li class="w3-theme-l5">
+      <a class="w3-button w3-xlarge w3-circle w3-theme-action"
+      style="position:fixed;top:48px;right:24px;">+</a>
+      <p>w3-theme-l5 (w3-theme-light) Nguyễn Xuân bảo-2121050486</p>
+      </li>
+      <li class="w3-theme-l4">
+        <p>w3-theme-l4 Nguyễn Xuân bảo-2121050486</p>
+      </li>
+      <li class="w3-theme-l3">
+        <p>w3-theme-l3 Nguyễn Xuân bảo-2121050486</p>
+      </li>
+      <li class="w3-theme-l2">
+        <p>w3-theme-l2 Nguyễn Xuân bảo-2121050486</p>
+      </li>
+      <li class="w3-theme-l1">
+        <p>w3-theme-l1 Nguyễn Xuân bảo-2121050486</p>
+      </li>
+      <li class="w3-theme">
+        <p>w3-theme</p>
+      </li>
+      <li class="w3-theme-d1">
+        <p>w3-theme-d1 Nguyễn Xuân bảo-2121050486</p>
+      </li>
+      <li class="w3-theme-d2">
+        <p>w3-theme-d2 Nguyễn Xuân bảo-2121050486</p>
+      </li>
+      <li class="w3-theme-d3">
+        <p>w3-theme-d3 Nguyễn Xuân bảo-2121050486</p>
+      </li>
+      <li class="w3-theme-d4">
+        <p>w3-theme-d4 Nguyễn Xuân bảo-2121050486</p>
+      </li>
+      <li class="w3-theme-d5">
+        <p>w3-theme-d5 (w3-theme-dark) Nguyễn Xuân bảo-2121050486</p>
+      </li>
+    </ul>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,55 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <title>W3.CSS Nguyễn Xuân Bảo-2121050486 </title>
+        <style>
+          .w3-amber{color:#000!important;background-color:#ffc107!important}
+        </style>
+</head>
+<body>
+  <div class="w3-container w3-amber">
+    <h1>W3.CSS Pro Nguyễn Xuân Bảo-2121050486</h1>
+    <p>With W3.CSS you can define your own colors. Nguyễn Xuân Bảo-2121050486</p>
+
+  <div class="w3-container w3-card">
+    <h1>Movies  Nguyễn Xuân Bảo-2121050486</h1>
+  </div>
+
+  <div class="w3-container">
+  <hr>
+  <div class="w3-cell-row">
+    <div class="w3-cell" style="width:30%">
+      <img src="img_avatar.jpg" style="width:100%">
+    </div>
+    <div class="w3-cell w3-container">
+      <h3>Frozen  Nguyễn Xuân Bảo-2121050486</h3>
+      <p>The response to the animations was ridiculous. Nguyễn Xuân Bảo-2121050486</p>
+    </div>
+  </div>  
+  <hr>
+  <div class="w3-cell-row">
+    <div class="w3-cell" style="width:30%">
+      <img src="img_avatar.jpg" style="width:100%">
+    </div>
+    <div class="w3-cell w3-container">
+      <h3>The Fault in Our Stars  Nguyễn Xuân Bảo-2121050486</h3>
+      <p>Touching, gripping and genuinely well made. Nguyễn Xuân Bảo-2121050486</p>
+    </div>
+  </div>
+  <hr>
+  <div class="w3-cell-row">
+    <div class="w3-cell" style="width:30%">
+      <img src="img_avatar.jpg" style="width:100%">
+    </div>
+    <div class="w3-cell w3-container">
+      <h3>The Avengers  Nguyễn Xuân Bảo-2121050486</h3>
+      <p>A huge success for Marvel and Disney. Nguyễn Xuân Bảo-2121050486</p>
+    </div>
+  </div>
+  <hr>
+  </div>
+
+  <div class="w3-container">
+    <h3>Footer Nguyễn Xuân Bảo-2121050486</h3>
+  </div>
+</body>
+</html>
