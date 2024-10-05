@@ -1,1 +1,13 @@
-<form asp-action="Index"
+@{
+    ViewData["Title"] = "Home page";
+}
+<h1>dữ liệu từ controller gửi về là: @ViewBag.Message</h1>
+<form asp-action="Index">
+    <label>nhập personID</label>
+    <input type="text" name="personID">
+    <lable>nhập họ tên:</lable>
+    <input type="text" name="fullname">
+    <label>nhập địa chỉ:</label>
+    <input type="text" name="address">
+    <input type="submit" value="gửi giữ liệu">
+</form>
